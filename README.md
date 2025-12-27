@@ -2,6 +2,9 @@
 
 A culturally-intelligent event discovery platform that understands local venues, neighborhoods, and cultural preferences to help users find relevant events in their city.
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9f202832-5095-4e3f-97a4-1e4a8a4e192d" />
+
+
 ## 🚀 Features
 
 - **Smart Event Filtering** - AI-powered recommendations based on local cultural knowledge
